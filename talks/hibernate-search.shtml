@@ -1,0 +1,12 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<h1>Hibernate Search. Trouver les données, vous valez mieux que ça.</h1>
+<p>
+ La fonction recherche est un composant essentiel d’une application moderne. Retrouver des données devrait être efficace et rapide. Hibernate Search et Lucene fournissent une solution de recherche full-texte facile a utiliser et puissante. Après avoir présenté les avantages de la recherche full-texte, nous allons voir comment les moteurs de recherche font pour s’en sortir face aux erreurs de frappes et autre recherche approximative (notamment via la recherche phonétique).
+</p>
+<h2>Présentateurs :</h2>
+<ul>
+ <li><a href="/speakers/emmanuel-bernard.shtml">Hibernate Search</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

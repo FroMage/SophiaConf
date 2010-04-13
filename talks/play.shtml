@@ -1,0 +1,12 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<h1>Play! Framework</h1>
+<p>
+ Bla bla.
+</p>
+<h2>Présentateurs :</h2>
+<ul>
+ <li><a href="/speakers/nicolas-leroux.shtml">Nicolas Leroux</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

@@ -1,0 +1,28 @@
+<!--#include virtual="/header.html"-->
+<p>
+ SophiaConf2010 est le fruit de l’union d’associations et d’organisations locales qui
+ veulent faire vivre les acteurs de l’informatique de Sophia-Antipolis en leur 
+ proposant de nombreuses conférences techniques gratuites.
+</p>
+<h1>Organisateurs</h1>
+<table class="logos">
+ <tr>
+  <td><a href="http://rivierajug.org"><img src="/img/rivierajug-edt.png"/></a></td>
+  <td><a href="http://www.telecom-valley.fr"><img src="/img/telecom-valley-edt.png"/></a></td>
+  <td><a href="http://www.inria.fr"><img src="/img/inria-edt.jpg"/></a></td>
+ </tr>
+</table>
+<table class="logos">
+ <tr>
+  <td><a href="http://www.barcamp-sophia-antipolis.com"><img src="/img/barcamp-edt.png"/></a></td>
+  <td><a href="http://www.opencoffeesophia.com"><img src="/img/opencoffee-edt.png"/></a></td>
+ </tr>
+</table>
+<h1>Sponsors</h1>
+<table class="logos">
+ <tr>
+  <td><a href="http://www.lunatech-research.com"><img src="/img/lunatech-labs-265.png"/></a></td>
+  <td><a href="http://www.agora-einstein.com"><img src="/img/agora-265.jpg"/></a></td>
+ </tr>
+</table>
+<!--#include virtual="/footer.html"-->

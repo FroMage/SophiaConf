@@ -1,0 +1,17 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<img class="speaker-photo" src="maxime-menant.jpg"/>
+<h1>Maxime Menant</h1>
+<p>
+Maxime Menant est développeur Ruby on Rails dans une startup prometteuse, <a href="http://veniu.com">Veniu</a>. 
+Après une experience enrichissante sur la programmation parallèle en JAVA, il a désormais rejoint le monde du développement 
+et de la recherche en Ruby car il est convaincu de la "sexyness" de ce langage et de son succès.
+De plus, le framework web Ruby on Rails fut la démonstration convaincante de la puissance de Ruby.
+Ainsi faire découvrir Ruby est désormais sa motivation première.
+</p>
+<h2>Présentations :</h2>
+<ul>
+ <li><a href="/talks/RoR2.shtml">RoR2</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

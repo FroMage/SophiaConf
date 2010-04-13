@@ -1,0 +1,12 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<h1>Java FX</h1>
+<p>
+ À venir.
+</p>
+<h2>Présentateurs :</h2>
+<ul>
+ <li><a href="/speakers/simon-ritter.shtml">Simon Ritter</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

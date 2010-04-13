@@ -1,0 +1,64 @@
+<!--#include virtual="/header.html"-->
+   <a href="http://www.rivierajug.org"><img class="logo-event" src="img/rivierajug-edt.png"/></a>
+   <h1>Vendredi 9 juillet</h1>
+   <p>
+    La série de conférences de SophiaConf2010 se clot le vendredi 9 juillet par une journée complète
+    de conférences organisées par le Riviera JUG, l’Open Coffee Club Sophia et le Bar Camp Sophia.
+   </p>
+   <p>
+    Libérez votre journée car vous allez pouvoir assister à rien moins que 12 présentations, sur deux
+    tracks parallèles, suivies du Bar Camp pour continuer la discussion autour des sujets de conférences
+    entre vous et avec les speakers, et de l’Open Coffee Club pour socialiser.
+   </p>
+   <table class="edt">
+    <colgroup>
+     <col class="time"/>
+     <col class="track"/>
+     <col class="track"/>
+    </colgroup>
+    <tr>
+     <th>Horaire</th>
+     <th>Track Java</th>
+     <th>Track Web</th>
+    </tr>
+    <tr>
+     <td>09:00-10:00</td>
+     <td><a href="talks/JDK7.shtml">JDK7</a>, par <a href="speakers/simon-ritter.shtml">Simon Ritter</a></td>
+     <td><a href="talks/RoR1.shtml">RoR1</a>, par <a href="speakers/camille-roux.shtml">Camille Roux</a></td>
+    </tr>
+    <tr>
+     <td>10:15-11:15</td>
+     <td><a href="talks/play.shtml">Play! Framework</a>, par <a href="speakers/nicolas-leroux.shtml">Nicolas Leroux</a></td>
+     <td><a href="talks/RoR2.shtml">RoR2</a>, par <a href="speakers/maxime-menant.shtml">Maxime Menant</a></td>
+    </tr>
+    <tr>
+     <td>11:30-12:30</td>
+     <td><a href="talks/hibernate-search.shtml">Hibernate Search. Trouver les données, vous valez mieux que ça</a>, par <a href="speakers/emmanuel-bernard.shtml">Emmanuel Bernard</a></td>
+     <td><a href="talks/javascript-optimisations.shtml">JavaScript Optimisations</a>, par <a href="speakers/florian-loitsch.shtml">Florian Loitsch</a></td>
+    </tr>
+    <tr>
+     <td>12:30-14:00</td>
+     <td class="legend" colspan="2">Pause déjeuner</td>
+    </tr>
+    <tr>
+     <td>14:00-15:00</td>
+     <td><a href="talks/JEE6.shtml">JEE6</a>, par <a href="speakers/adam-bien.shtml">Adam Bien</a></td>
+     <td><a href="talks/JavaFX.shtml">JavaFX</a>, par <a href="speakers/simon-ritter.shtml">Simon Ritter</a></td>
+    </tr>
+    <tr>
+     <td>15:15-16:15</td>
+     <td><a href="talks/hibernate-jpa.shtml">Quoi de neuf dans Hibernate : une perspective de JPA</a>, par <a href="speakers/emmanuel-bernard.shtml">Emmanuel Bernard</a></td>
+     <td>Talk B5</td>
+    </tr>
+    <tr>
+     <td>16:30-17:30</td>
+     <td>Talk A6</td>
+     <td>Talk B6</td>
+    </tr>
+    <tr>
+     <td>18:00-22:00</td>
+     <td class="image"><a href="http://www.barcamp-sophia-antipolis.com"><img src="img/barcamp-edt.png"/></a></td>
+     <td class="image"><a href="http://www.opencoffeesophia.com"><img src="img/opencoffee-edt.png"/></a></td>
+    </tr>
+   </table>
+<!--#include virtual="/footer.html"-->

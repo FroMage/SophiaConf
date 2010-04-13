@@ -1,0 +1,14 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<img class="speaker-photo" src="florian-loitsch.jpg"/>
+<h1>Florian Loitsch</h1>
+<p>
+Finished his thesis on Scheme-to-JavaScript compilation in 2009.
+Since 2010 he works at Google with the V8 team.
+</p>
+<h2>Présentations :</h2>
+<ul>
+ <li><a href="/talks/javascript-optimisations.shtml">JavaScript Optimisations</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

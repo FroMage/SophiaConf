@@ -1,0 +1,25 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<h1>Quoi de neuf dans Hibernate : une perspective de JPA</h1>
+<p>
+Java Persistence 2 rattrape son retard et standardise de nouvelles fonctionnalités avancées. 
+Qu’est-ce que cela veut dire pour un utilisateur d’Hibernate ? Et plus généralement, quoi de neuf dans Hibernate ?
+<p>
+</p>
+Dans cette session, nous explorerons les nouvelles fonctionnalités d’Hibernate et en particulier celles venant de Java Persistence 2 :
+<ul>
+ <li>la nouvelle API type-safe de recherche ainsi que le générateur de metamodel d’Hibernate</li>
+ <li>les nouvelles options de lock et leurs conséquences pour les applications</li>
+ <li>le cache de second niveau Infinispan</li>
+ <li>le fetch profile</li>
+ <li>et plein d’autre choses.</li>
+</ul>
+<p>
+On couvrira aussi brièvement ce qu’il y a au delà d’Hibernate Core : Hibernate n’est plus seulement un ORM mais une suite d’outils centrés sur le modèle métier comme la validation, la recherche full-text etc.
+</p>
+<h2>Présentateurs :</h2>
+<ul>
+ <li><a href="/speakers/emmanuel-bernard.shtml">Emmanuel Bernard</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

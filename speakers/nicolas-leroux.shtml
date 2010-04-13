@@ -1,0 +1,14 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<img class="speaker-photo" src="nicolas-leroux.jpg"/>
+<h1>Nicolas Leroux</h1>
+<p>
+Niçois d'origine, il est maintenant basé à Rotterdam, Pays-Bas où il travaille comme développeur senior à <span class="wikiexternallink"><a href="http://www.lunatech-research.com">Lunatech Research</a></span>. Il a de nombreuses années d'expérience de conception d'applications Java EE pour l'industrie et le service public grâce aux librairies open-source et des méthodes <span class="wikiexternallink"><a href="http://en.wikipedia.org/wiki/Agile_software_development">agiles</a></span>. </p><p>
+Expert en <span class="wikiexternallink"><a href="http://java.sun.com/products/ejb/">Enterprise Java Beans</a></span>, <span class="wikiexternallink"><a href="http://www.seamframework.org">JBoss Seam</a></span>, <span class="wikiexternallink"><a href="http://java.sun.com/products/jms/">Java Message Service</a></span>, <span class="wikiexternallink"><a href="http://jboss.com/products/jbpm">JBPM</a></span>, <span class="wikiexternallink"><a href="http://struts.apache.org/">Struts</a></span>, <span class="wikiexternallink"><a href="http://www.springframework.org/">Spring</a></span> pour ne citer qu'eux, car il met un point d'honneur à tester les nombreux nouveaux frameworks qui sortent chaque année, restant ainsi à la pointe des dernières innovations. Organisateur de plusieurs <span class="wikiexternallink"><a href="http://www.lunatech-research.com/archives/2008/01/17/jbug-2008-02">Benelux JBug</a></span> (<span class="wikiexternallink"><a href="http://jboss.org/resources/jbugs.html">JBoss User Group</a></span>) à Rotterdam. <span class="wikiexternallink"><a href="http://www.parleys.com/display/PARLEYS/Home#talk=18972706;slide=1;title=Seam%20in%20Action%20-%20Part%202">Présentation</a></span> à <span class="wikiexternallink"><a href="http://www.javapolis.com/">Javapolis</a></span> en 2007.</p><p>
+</p>
+<h2>Présentations :</h2>
+<ul>
+ <li><a href="/talks/play.shtml">Play!</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

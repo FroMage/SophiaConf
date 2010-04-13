@@ -1,0 +1,17 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<h1>JavaScript Optimization - Dos and Don'ts.</h1>
+<p>
+Thanks to just-in-time compilation recent JavaScript engines have become much
+faster. However their capability of generating efficient code depends heavily
+on the input program. In this talk I will show how and why specific patterns
+have an influence on the speed of JavaScript programs. I will present some
+rules to avoid slow programs and give some advice for speeding up typical
+JavaScript code.
+</p>
+<h2>Présentateurs :</h2>
+<ul>
+ <li><a href="/speakers/florian-loitsch.shtml">Florian Loitsch</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

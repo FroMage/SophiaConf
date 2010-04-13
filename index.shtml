@@ -1,0 +1,55 @@
+<!--#include virtual="/header.html"-->
+<table class="sponsors">
+ <tr>
+  <th>Sponsors</th>
+ </tr>
+ <tr>
+  <td><a href="http://www.lunatech-research.com"><img src="img/lunatech-labs-150.png"/></a></td>
+ </tr>
+ <tr>
+  <td><a href="http://www.agora-einstein.com"><img src="img/agora-150.jpg"/></a></td>
+ </tr>
+</table>
+   <p>
+    Du 30 juin au 9 juillet, tout Sophia-Antipolis se regroupe pour organiser
+    un ensemble de conférences techniques autour de l’informatique, rien que
+    pour vous, gratuitement.
+   </p>
+   <table class="edt index">
+    <colgroup>
+     <col class="time"/>
+     <col class="time"/>
+     <col class="track"/>
+    </colgroup>
+    <tr>
+     <th>Date</th>
+     <th>Horaire</th>
+     <th>Contenu</th>
+    </tr>
+    <tr>
+     <td>Mercredi 30 juin</td>
+     <td class="legend">17:30-19:00</td>
+     <td><a href="programme1.shtml">Soirée Telecom Valley</a></td>
+    </tr>
+    <tr>
+     <td>Jeudi 1er juillet</td>
+     <td class="legend">17:30-19:00</td>
+     <td><a href="programme2.shtml">Soirée INRIA</a></td>
+    </tr>
+    <tr>
+     <td>Lundi 5 juillet</td>
+     <td class="legend">17:30-19:00</td>
+     <td><a href="programme3.shtml">Soirée Telecom Valley</a></td>
+    </tr>
+    <tr>
+     <td>Jeudi 8 juillet</td>
+     <td class="legend">17:30-20:00</td>
+     <td><a href="programme4.shtml">Soirée Telecom Valley</a></td>
+    </tr>
+    <tr>
+     <td>Vendredi 9 juillet</td>
+     <td class="legend">09:00-22:00</td>
+     <td><a href="programme5.shtml">Journée Riviera JUG, Open Coffee Club Sophia, Bar Camp Sophia</a></td>
+    </tr>
+   </table>
+<!--#include virtual="/footer.html"-->

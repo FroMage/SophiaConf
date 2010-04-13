@@ -1,0 +1,20 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<img class="speaker-photo" src="camille-roux.jpg"/>
+<h1>Camille Roux</h1>
+<p>
+Camille Roux est chef de projet et développeur Ruby on Rails dans une startup prometteuse, <a href="http://veniu.com">Veniu</a>.
+Il fut co-fondateur en 2007 d'un cycle de conférences sophipolitain, les Intellicore Tech Talks,
+dont certaines qu'il <a href="http://www.camilleroux.com/tag/intellicore-tech-talks/">présenta lui-même</a>.
+Cet événement remporta un franc succès sur la technopôle et sur le web.
+</p>
+<p>
+Il est convaincu de la puissance de Ruby et de la force du framework web Ruby on Rails. 
+C'est une réelle passion qu'il aime faire partager.
+</p>
+<h2>Présentations :</h2>
+<ul>
+ <li><a href="/talks/RoR1.shtml">RoR1</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

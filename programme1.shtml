@@ -1,0 +1,21 @@
+<!--#include virtual="/header.html"-->
+   <a href="http://www.telecom-valley.fr"><img class="logo-event" src="img/telecom-valley-edt.png"/></a>
+   <h1>Mercredi 30 juin</h1>
+   <p>
+    A venir.
+   </p>
+   <table class="edt">
+    <colgroup>
+     <col class="time"/>
+     <col class="track"/>
+    </colgroup>
+    <tr>
+     <th>Horaire</th>
+     <th>Titre</th>
+    </tr>
+    <tr>
+     <td>17:30-19:00</td>
+     <td>Authentication</td>
+    </tr>
+   </table>
+<!--#include virtual="/footer.html"-->
