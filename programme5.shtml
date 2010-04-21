@@ -21,39 +21,63 @@
      <th>Track Java</th>
      <th>Track Web</th>
     </tr>
+    <tr class="break">
+     <td>08:00-09:00</td>
+     <td class="legend" colspan="2">Accueil</td>
+    </tr>
     <tr>
      <td>09:00-10:00</td>
-     <td><a href="talks/JDK7.shtml">JDK7</a>, par <a href="speakers/simon-ritter.shtml">Simon Ritter</a></td>
-     <td><a href="talks/RoR1.shtml">RoR1</a>, par <a href="speakers/camille-roux.shtml">Camille Roux</a></td>
+     <td><div class="author"><a href="speakers/simon-ritter.shtml">Simon Ritter</a></div><div class="talk"><a href="talks/JDK7.shtml">JDK 7</a></div></td>
+     <td><div class="author"><a href="speakers/camille-roux.shtml">Camille Roux</a></div><div class="talk"><a href="talks/RoR1.shtml">RoR1</a></div></td>
+    </tr>
+    <tr class="break">
+     <td>10:00-10:15</td>
+     <td class="legend" colspan="2">Pause</td>
     </tr>
     <tr>
      <td>10:15-11:15</td>
-     <td><a href="talks/play.shtml">Play! Framework</a>, par <a href="speakers/nicolas-leroux.shtml">Nicolas Leroux</a></td>
-     <td><a href="talks/RoR2.shtml">RoR2</a>, par <a href="speakers/maxime-menant.shtml">Maxime Menant</a></td>
+     <td><div class="author"><a href="speakers/nicolas-leroux.shtml">Nicolas Leroux</a></div><div class="talk"><a href="talks/play.shtml">Play! Framework</a></div></td>
+     <td><div class="author"><a href="speakers/maxime-menant.shtml">Maxime Menant</a></div><div class="talk"><a href="talks/RoR2.shtml">RoR2</a></div></td>
+    </tr>
+    <tr class="break">
+     <td>11:15-11:30</td>
+     <td class="legend" colspan="2">Pause</td>
     </tr>
     <tr>
      <td>11:30-12:30</td>
-     <td><a href="talks/hibernate-search.shtml">Hibernate Search. Trouver les données, vous valez mieux que ça</a>, par <a href="speakers/emmanuel-bernard.shtml">Emmanuel Bernard</a></td>
-     <td><a href="talks/javascript-optimisations.shtml">JavaScript Optimisations</a>, par <a href="speakers/florian-loitsch.shtml">Florian Loitsch</a></td>
+     <td><div class="author"><a href="speakers/emmanuel-bernard.shtml">Emmanuel Bernard</a></div><div class="talk"><a href="talks/hibernate-search.shtml">Hibernate Search. Trouver les données, vous valez mieux que ça</a></div></td>
+     <td><div class="author"><a href="speakers/florian-loitsch.shtml">Florian Loitsch</a></div><div class="talk"><a href="talks/javascript-optimisations.shtml">JavaScript Optimisations</a></div></td>
     </tr>
-    <tr>
+    <tr class="break">
      <td>12:30-14:00</td>
      <td class="legend" colspan="2">Pause déjeuner</td>
     </tr>
     <tr>
      <td>14:00-15:00</td>
-     <td><a href="talks/JEE6.shtml">JEE6</a>, par <a href="speakers/adam-bien.shtml">Adam Bien</a></td>
-     <td><a href="talks/JavaFX.shtml">JavaFX</a>, par <a href="speakers/simon-ritter.shtml">Simon Ritter</a></td>
+     <td><div class="author"><a href="speakers/adam-bien.shtml">Adam Bien</a></div><div class="talk"><a href="talks/JEE6.shtml">JEE 6</a></div></td>
+     <td><div class="author"><a href="speakers/simon-ritter.shtml">Simon Ritter</a></div><div class="talk"><a href="talks/JavaFX.shtml">JavaFX</a></div></td>
+    </tr>
+    <tr class="break">
+     <td>15:00-15:15</td>
+     <td class="legend" colspan="2">Pause</td>
     </tr>
     <tr>
      <td>15:15-16:15</td>
-     <td><a href="talks/hibernate-jpa.shtml">Quoi de neuf dans Hibernate : une perspective de JPA</a>, par <a href="speakers/emmanuel-bernard.shtml">Emmanuel Bernard</a></td>
-     <td>Talk B5</td>
+     <td><div class="author"><a href="speakers/emmanuel-bernard.shtml">Emmanuel Bernard</a></div><div class="talk"><a href="talks/hibernate-jpa.shtml">Quoi de neuf dans Hibernate : une perspective de JPA</a></div></td>
+     <td><div class="author"><a href="speakers/egor-kloos.shtml">Egor Kloos</a></div><div class="talk"><a href="talks/HTML5.shtml">HTML 5</a></div></td>
+    </tr>
+    <tr class="break">
+     <td>16:15-16:30</td>
+     <td class="legend" colspan="2">Pause</td>
     </tr>
     <tr>
      <td>16:30-17:30</td>
-     <td>Talk A6</td>
-     <td>Talk B6</td>
+     <td><div class="author"><a href="speakers/sadek-drobi.shtml">Sadek Drobi</a></div><div class="talk"><a href="talks/Scala.shtml">Scala</a></div></td>
+     <td><div class="author"><a href="speakers/gianugo-rabellino.shtml">Gianugo Rabellino</a></div><div class="talk"><a href="talks/atlassian.shtml">Beyond the timesheet - Open and Productive</a></div></td>
+    </tr>
+    <tr class="break">
+     <td>17:30-18:00</td>
+     <td class="legend" colspan="2">Pause</td>
     </tr>
     <tr>
      <td>18:00-22:00</td>

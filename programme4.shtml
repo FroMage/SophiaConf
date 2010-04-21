@@ -14,8 +14,16 @@
      <th>Titre</th>
     </tr>
     <tr>
-     <td>17:30-19:00</td>
-     <td>Android</td>
+     <td>14:00-16:30</td>
+     <td><div class="author"><a href="speakers/julien-quint.shtml">Julien Quint</a></div><div class="talk"><a href="talks/HTML5-tv.shtml">HTML 5 : La prochaine plateforme du Web</a></div></td>
+    </tr>
+    <tr class="break">
+     <td>16:30-17:30</td>
+     <td class="legend" colspan="2">Pause</td>
+    </tr> 
+    <tr>
+     <td>17:30-20:00</td>
+     <td><div class="author"><a href="speakers/claude-aubry.shtml">Claude Aubry</a></div><div class="talk"><a href="talks/SCRUM.shtml">Méthodologie de gestion de projet agile : SCRUM</a></div></td>
     </tr>
    </table>
 <!--#include virtual="/footer.html"-->

@@ -1,0 +1,12 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<h1>Android 1 an après</h1>
+<p>
+ À venir.
+</p>
+<h2>Présentateurs :</h2>
+<ul>
+ <li><a href="/speakers/arnaud-farine.shtml">Arnaud Farine</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

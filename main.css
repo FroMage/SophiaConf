@@ -45,9 +45,13 @@
 
 .speaker-photo {
  float: right;
- -moz-box-shadow:0.3em 0.3em 0.5em;
- box-shadow:0.3em 0.3em 0.5em;
- -webkit-box-shadow:0.3em 0.3em 0.5em;
+}
+
+.speaker-list img,
+.speaker-photo {
+ -moz-box-shadow:0.3em 0.3em 0.5em black;
+ box-shadow:0.3em 0.3em 0.5em black;
+ -webkit-box-shadow:0.3em 0.3em 0.5em black;
  margin: 1em;
 }
 
@@ -78,7 +82,21 @@ p, table {
 table.edt {
  border:1px solid #3A414C;
  border-collapse:collapse;
- width:100%;
+ font-size: 90%;
+ width: 70%;
+ margin-left: 15%;
+ margin-right: 15%;
+}
+
+.edt .author,
+.edt .author a,
+.edt .author a:visited {
+ color: gray;
+}
+
+.edt td {
+ text-align: center;
+ border:1px solid gray;
 }
 
 table.edt.index{
@@ -116,8 +134,20 @@ table.edt td {
  border-bottom:1px solid gray;
 }
 
-table.edt td:first-child, td.legend {
- background:#72A5FF;
+table.edt td:first-child {
+ font-weight: bold;
+}
+
+table.edt tr.break {
+ background: #eeeeee;
+}
+
+table.edt td.legend,
+table.edt td:first-child {
+ color: #414141;
+ padding-left: 1em;
+ padding-right: 1em;
+ white-space: pre;
 }
 
 table.logos {
@@ -138,4 +168,39 @@ ul {
 
 a > img {
  border: none;
+}
+
+.speaker-list {
+ width: 70%;
+ margin-left: 15%;
+ margin-right: 15%;
+ border-collapse: collapse;
+}
+
+.speaker-list td {
+ width: 25%;
+ text-align: center;
+}
+
+.speaker-list .title {
+ font-family: times New Roman;
+ font-size: 32pt;
+ font-weight: bold;
+}
+
+.speaker-list .title a {
+ color: black;
+ text-decoration: none;
+}
+
+.speaker-list .title a:hover {
+ color: white;
+}
+
+.speaker-list td.inria {
+ background: #5C84CC;
+}
+
+.speaker-list td.jug {
+ background: #72A5FF;
 }

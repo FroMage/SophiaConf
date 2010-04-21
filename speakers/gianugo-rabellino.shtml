@@ -1,0 +1,32 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<img class="speaker-photo" src="gianugo-rabellino.jpg"/>
+<h1>Gianugo Rabellino</h1>
+<p>
+Gianugo Rabellno is the founder and CEO of Sourcesense, Europe's
+leading Open Source systems integrator. He has been at the forefront
+of the Open Source movement in Europe, founding the first official
+Italian Linux organization in 1994, and launching Orixo, the
+consortium of European Open Source companies.
+</p>
+<p>
+A Member of the Apache
+Software Foundation (ASF), Rabellino serves as Vice President of the
+Apache XML Project Management Committee, is a committer on several ASF
+projects including Cocoon, Xindice, and Jackrabbit, as well as mentor
+of the River and CouchDB projects currently in development at the ASF
+Incubator.
+</p>
+<p>
+His highly charismatic presentations on topics such as
+Enterprise Open Source adoption, next-generation opportunities in Open
+Source, and building Open Development communities draws enthusiastic
+audiences at all levels at industry-leading events including JavaOne,
+Emerging Technologies for the Enterprise, and ApacheCon.
+</p>
+<h2>Présentations :</h2>
+<ul>
+ <li><a href="/talks/atlassian.shtml">Beyond the timesheet - Open and Productive</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

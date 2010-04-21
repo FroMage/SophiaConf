@@ -15,7 +15,7 @@
     </tr>
     <tr>
      <td>17:30-19:00</td>
-     <td>Authentication</td>
+     <td><div class="author"><a href="speakers/hubert-le-van-gong.shtml">Hubert Le Van Gong</a></div><div class="talk"><a href="talks/SSO.shtml">SSO, fédération, OpenID et OAuth – authentification et Web 2.0</a></div></td>
     </tr>
    </table>
 <!--#include virtual="/footer.html"-->

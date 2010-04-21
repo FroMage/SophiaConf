@@ -1,0 +1,12 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<img class="speaker-photo" src=".jpg"/>
+<h1>A. Farine</h1>
+<p>
+</p>
+<h2>Présentations :</h2>
+<ul>
+ <li><a href="/talks/android.shtml">Android 1 an après</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

@@ -1,0 +1,13 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<img class="speaker-photo" src=".jpg"/>
+<h1>Egor Kloos</h1>
+<p>
+ À venir.
+</p>
+<h2>Présentations :</h2>
+<ul>
+ <li><a href="/talks/HTML5.shtml">HTML 5</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

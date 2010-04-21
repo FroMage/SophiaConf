@@ -1,0 +1,22 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<img class="speaker-photo" src="patrick-moreau.jpg"/>
+<h1>Patrick Moreau</h1>
+<p>
+Patrick Moreau est arrivé le 15 octobre à la DTI en tant que responsable du patrimoine logiciel, après neuf années chez Schlumberger (produits électroniques et logiciels et ensuite au centre de recherche) puis huit ans dans le service informatique (direction d'agence, travail pour de grands comptes). 
+</p>
+<p>
+Le responsable du patrimoine logiciel a la mission de gérer et de développer le patrimoine logiciel de l’INRIA.
+</p>
+<p>
+La gestion du patrimoine recouvre plusieurs aspects. En premier lieu, il s’agit de recenser les actifs logiciels de l’INRIA et d’établir une source d’information unique sur ce patrimoine. En parallèle, il est nécessaire d’élaborer la politique de protection et de dissémination du patrimoine logiciel (choix des licences) dont un élément important est la politique Open Source de l'Institut. Un dernier aspect, clé dans le transfert d’un logiciel, est la définition et la mise en œuvre de la politique d’audit juridique des logiciels.
+</p>
+<p>
+Patrick Moreau est diplômé de l’ENST (1991) 
+</p>
+<h2>Présentations :</h2>
+<ul>
+ <li><a href="/talks/IPRA.shtml">IPRA – Intellectual Property Right Analysis</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->

@@ -1,0 +1,44 @@
+<!--#include virtual="/header.html"-->
+<table class="speaker-list">
+ <tr>
+  <td class="inria title">
+   <a href="/programme2.shtml">Jeudi 1<sup>er</sup> juillet</a>
+  </td>
+  <td class="inria">
+   <a href="speakers/patrick-moreau.shtml"><img src="speakers/patrick-moreau.jpg"/></a>
+   <div class="legend"><a href="speakers/patrick-moreau.shtml">Patrick Moreau</a></div>
+  </td>
+  <td class="jug title">
+   <a href="/programme5.shtml">Vendredi 9 juillet</a>
+  </td>
+  <td class="jug">
+   <a href="speakers/emmanuel-bernard.shtml"><img src="speakers/emmanuel-bernard.jpg"/></a>
+   <div class="legend"><a href="speakers/emmanuel-bernard.shtml">Emmanuel Bernard</a></div>
+  </td>
+ </tr>
+ <tr>
+  <td class="jug">
+   <a href="speakers/maxime-menant.shtml"><img src="speakers/maxime-menant.jpg"/></a>
+   <div class="legend"><a href="speakers/maxime-menant.shtml">Maxime Menant</a></div>
+  </td>
+  <td class="jug">
+   <a href="speakers/camille-roux.shtml"><img src="speakers/camille-roux.jpg"/></a>
+   <div class="legend"><a href="speakers/camille-roux.shtml">Camille Roux</a></div>
+  </td>
+  <td class="jug">
+   <a href="speakers/nicolas-leroux.shtml"><img src="speakers/nicolas-leroux.jpg"/></a>
+   <div class="legend"><a href="speakers/nicolas-leroux.shtml">Nicolas Leroux</a></div>
+  </td>
+  <td class="jug">
+   <a href="speakers/florian-loitsch.shtml"><img src="speakers/florian-loitsch.jpg"/></a>
+   <div class="legend"><a href="speakers/florian-loitsch.shtml">Florian Loitsch</a></div>
+  </td>
+ </tr>
+ <tr>
+  <td class="jug">
+   <a href="speakers/gianugo-rabellino.shtml"><img src="speakers/gianugo-rabellino.jpg"/></a>
+   <div class="legend"><a href="speakers/gianugo-rabellino.shtml">Gianugo Rabellino</a></div>
+  </td>
+ </tr>
+</table>
+<!--#include virtual="/footer.html"-->

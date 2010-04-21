@@ -1,0 +1,16 @@
+<!--#include virtual="/header.html"-->
+<div class="bubble">
+<h1>Beyond the timesheet - Open and Productive</h1>
+<p>
+Open and Productive collaboration tools can make your life
+easier and impress your boss. Learn how the Open Source world has
+brought a new way to develop, build and manage complex software
+projects, and how tools like the Atlassian suite (and more!) can help
+you being more productive, efficient and happy.
+</p>
+<h2>Présentateurs :</h2>
+<ul>
+ <li><a href="/speakers/gianugo-rabellino.shtml">Gianugo Rabellino</a></li>
+</ul>
+</div>
+<!--#include virtual="/footer.html"-->
